@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P6N1b83VZois/LuCX8GfuiZvk0lrGMM5lyoZbZRTBCLwxY2kITQtYvetL8aaoRTIc8S3kQE9h8Otshkj/h0k0g==",
+  "dgSpecHash": "QUYk0ff6rKOwxneENJuC5rBOQfkafiIzRbIBAFzjpwntCpSgtr6y/0reJL3070sX+EODLmWsyUtokUSsloUUQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hugob\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "projectFilePath": "C:\\Users\\Hugob\\source\\repos\\WebApplication2\\WebApplication2\\APIOpenBootcamp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hugob\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hugob\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

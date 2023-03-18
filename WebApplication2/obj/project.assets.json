@@ -10237,9 +10237,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hugob\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
-      "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\Hugob\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\Hugob\\source\\repos\\WebApplication2\\WebApplication2\\APIOpenBootcamp.csproj",
+      "projectName": "APIOpenBootcamp",
+      "projectPath": "C:\\Users\\Hugob\\source\\repos\\WebApplication2\\WebApplication2\\APIOpenBootcamp.csproj",
       "packagesPath": "C:\\Users\\Hugob\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hugob\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",

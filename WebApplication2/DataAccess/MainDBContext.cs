@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebApplication2.Models.DataModels;
+using APIOpenBootcamp.Models.DataModels;
 
-namespace WebApplication2.DataAccess
+namespace APIOpenBootcamp.DataAccess
 {
     public class MainDBContext:DbContext
     {

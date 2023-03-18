@@ -5,11 +5,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using WebApplication2.DataAccess;
+using APIOpenBootcamp.DataAccess;
 
 #nullable disable
 
-namespace WebApplication2.Migrations
+namespace APIOpenBootcamp.Migrations
 {
     [DbContext(typeof(MainDBContext))]
     [Migration("20230318061544_Create Users Table")]

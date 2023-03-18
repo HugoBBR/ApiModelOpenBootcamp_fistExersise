@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using WebApplication2.DataAccess;
+using APIOpenBootcamp.DataAccess;
 
 var builder = WebApplication.CreateBuilder(args);
 // Conection wiht SQL server express

@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace WebApplication2.Models.DataModels
+namespace APIOpenBootcamp.Models.DataModels
 {
     public class BaseEntity
     {
